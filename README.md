@@ -26,13 +26,13 @@ Si encuentra algún error, por favor, comuníquenoslo usando el [issue tracker](
 5.1 [Las rocas sedimentarias](Tema5/Geologia_5_1.html)  
 
 ### Tema 6: Metamorfismo y rocas metamórficas
-6.1 [Metamorfismo y rocas metamórficas](Tema5/Geologia_6_1.html)  
+6.1 [Metamorfismo y rocas metamórficas](Tema6/Geologia_6_1.html)  
 
 ### Tema 7: El tiempo geológico
-7.1 [El tiempo geológico](Tema5/geologia_7_1.html)  
+7.1 [El tiempo geológico](Tema7/geologia_7_1.html)  
 
 ### Tema 8: Bases de la Topografía
-8.1 [Bases de la Topografía](Tema5/geologia_8_1.html)  
+8.1 [Bases de la Topografía](Tema8/geologia_8_1.html)  
 
 
 Estos contenidos forman parte del FIDO "IMPLEMENTACIÓN DE CURSOS CERO EN LA PLATAFORMA PRADO2 PARA LAS TITULACIONES DE LA FACULTAD DE CIENCIAS" de la Convocatoria de Proyectos de Innovación Docente y Buenas Prácticas del Plan FIDO UGR 2016-2018 (Universidad de Granada)

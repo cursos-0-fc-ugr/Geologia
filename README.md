@@ -34,5 +34,11 @@ Si encuentra algún error, por favor, comuníquenoslo usando el [issue tracker](
 ### Tema 8: Bases de la Topografía
 8.1 [Bases de la Topografía](Tema8/geologia_8_1.html)  
 
+### Tema 9: Bases de la Topografía
+8.1 [El Mapa topográfico](Tema9/tema9.html)  
+
+### Tema 10: Bases de la Topografía
+8.1 [El Mapa geológico](Tema10/tema10.html)  
+
 
 Estos contenidos forman parte del FIDO "IMPLEMENTACIÓN DE CURSOS CERO EN LA PLATAFORMA PRADO2 PARA LAS TITULACIONES DE LA FACULTAD DE CIENCIAS" de la Convocatoria de Proyectos de Innovación Docente y Buenas Prácticas del Plan FIDO UGR 2016-2018 (Universidad de Granada)

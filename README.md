@@ -23,15 +23,15 @@ Si encuentra algún error, por favor, comuníquenoslo usando el [issue tracker](
 
 ### Tema 4: Los magmas y las rocas magmáticas
 4.1 [Los magmas y las rocas magmáticas](Tema4/Geologia_4_1.html)
-  * [Cuestionario](Tema4/geologia_4_test.html)
+  * [Cuestionario](Tema4/Geologia_4_test.html)
 
 ### Tema 5: Las rocas sedimentarias
 5.1 [Las rocas sedimentarias](Tema5/Geologia_5_1.html)
-  * [Cuestionario](Tema5/geologia_5_test.html)
+  * [Cuestionario](Tema5/Geologia_5_test.html)
 
 ### Tema 6: Metamorfismo y rocas metamórficas
 6.1 [Metamorfismo y rocas metamórficas](Tema6/Geologia_6_1.html)
-  * [Cuestionario](Tema6/geologia_6_test.html)
+  * [Cuestionario](Tema6/Geologia_6_test.html)
 
 ### Tema 7: El tiempo geológico
 7.1 [El tiempo geológico](Tema7/geologia_7_1.html)  

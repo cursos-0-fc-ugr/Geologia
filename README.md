@@ -5,7 +5,7 @@ Material elaborado por Claudio Marchesi, profesor del Departamento de Mineralog�
 
 Este repositorio se puede visitar en [GitHub pages](https://cursos-0-fc-ugr.github.io/Geologia).
 
-Si encuentra algún error, por favor, comuníquenoslo usando el [issue tracker](https://github.com/cursos-0-fc-ugr/Geologia/issues) de este repositorio.
+Si encuentra algún error, por favor, comuníquenoslo usando el [gestor de incidencias](https://github.com/cursos-0-fc-ugr/Geologia/issues) de este repositorio.
 
 ## Contenidos
 
